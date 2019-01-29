@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/seanogor/Threat-Exchange-T
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Sean's text
+
+I have my own webpage now, it's a start!!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
